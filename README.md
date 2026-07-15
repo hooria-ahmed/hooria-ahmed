@@ -1,4 +1,3 @@
-<img src="./assets/banner.png" width="100%">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Hooria+Ahmed+💜;Computer+Systems+Engineering+Student;Aspiring+Full+Stack+Developer;Building+Web+Applications+🐈‍⬛"/>
 </p>
