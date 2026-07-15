@@ -88,6 +88,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hooria-ahmed&theme=midnight-purple"/>
 
 </p>
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hooria-ahmed/hooria-ahmed/output/github-contribution-grid-snake-purple.svg">
+</p>
 
 
 ---
