@@ -10,6 +10,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
@@ -19,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake-purple.svg?palette=github-dark-purple
             dist/github-contribution-grid-snake-purple.gif?palette=github-dark-purple
 
-      - name: Push snake files
+      - name: Deploy snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
