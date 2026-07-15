@@ -76,34 +76,6 @@
 </p>
 
 ---
-
-# 🛠️ Development Skills
-
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI/UX Implementation
-
-### Backend Development
-- Python
-- Django
-- Database Design
-- REST APIs
-
-### Database
-- MySQL
-- SQL Fundamentals
-
-### Other Interests
-- Artificial Intelligence
-- Machine Learning
-- Automation Systems
-- Embedded Technologies
-
-
----
 # 🐱 GitHub Stats
 
 <p align="center">
