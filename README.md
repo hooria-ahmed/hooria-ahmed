@@ -1,5 +1,5 @@
 # 💜 Hi, I'm Hooria Ahmed 🐈‍⬛
-## Computer Systems Engineering Student | AI • Software • Embedded Systems
+## Computer Systems Engineering Student | Full Stack Developer | Web • Software • AI
 
 <p align="center">
 
@@ -23,48 +23,86 @@
 
 </p>
 
+
 ---
 
 <div align="center">
 
-### 🐾 "Building systems, solving problems, and occasionally debugging with a cat beside me." 💜
+### 🐾 "Building websites, solving problems, and debugging with a cat as my coding partner." 💜
 
 </div>
 
+
 ---
 
-## 🌙 About Me
+# 🌙 About Me
 
 - 🎓 I am a **Computer Systems Engineering student at NED University**, graduating in 2028.
-- 💻 Passionate about creating **software applications, AI solutions, and automation systems**.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, and intelligent systems**.
-- 🌐 Experienced in developing applications using **Python, Django, MySQL, and Web Technologies**.
-- ⚙️ Interested in the intersection of **hardware, software, and intelligent computing**.
-- 🐈 Fun fact: I believe every programmer needs two things — good logic and a cat supervising the code.
+- 💻 Aspiring **Full Stack Developer** passionate about building scalable and user-focused web applications.
+- 🌐 Currently developing my skills in **Frontend Development, Backend Development, and Database Management**.
+- 🎨 Experienced in creating responsive interfaces using **HTML, CSS, and JavaScript**.
+- ⚙️ Interested in building complete systems that combine **modern web technologies, automation, and intelligent solutions**.
+- 🤖 Exploring **Artificial Intelligence and Machine Learning** alongside software development.
+- 🐈 Fun fact: My debugging assistant is usually a cat who contributes absolutely no code but provides moral support.
+
 
 ---
 
-# 💜 Languages & Tools
+# 💜 Languages & Technologies
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-9370DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-6A0DAD?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Django-8A2BE2?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-9370DB?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-6A0DAD?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-9370DB?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-8A2BE2?style=for-the-badge"/>
 
 </p>
+
+
+---
+
+# 🛠️ Development Skills
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- UI/UX Implementation
+
+### Backend Development
+- Python
+- Django
+- Database Design
+- REST APIs
+
+### Database
+- MySQL
+- SQL Fundamentals
+
+### Other Interests
+- Artificial Intelligence
+- Machine Learning
+- Automation Systems
+- Embedded Technologies
 
 
 ---
